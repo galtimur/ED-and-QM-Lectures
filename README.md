@@ -20,7 +20,7 @@ List of files:
 
 **QM_Exam_quest** - Questions for the oral exam in quantum mechanics
 
-#**RU:**
+**RU:**
 
 Конспекты лекций по электродинамике и квантовой механике, читаемые в НИТУ "МИСиС" Гализмяновым Т.Р., а также прочие материалы.
 
