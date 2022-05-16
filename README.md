@@ -1,4 +1,5 @@
-#ED and QM Lectures
+# ED and QM Lectures
+
 Lecture notes on electrodynamics and quantum mechanics read at NUST "MISiS" by T.R. Galizmyanov, as well as other materials.
 
 List of files:
@@ -20,8 +21,6 @@ List of files:
 **QM_Exam_quest** - Questions for the oral exam in quantum mechanics
 
 **RU:**
-
-# ED and QM Lectures
 Конспекты лекций по электродинамике и квантовой механике, читаемые в НИТУ "МИСиС" Гализмяновым Т.Р., а также прочие материалы.
 
 Список файлов:
