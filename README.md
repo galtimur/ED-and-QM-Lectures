@@ -2,8 +2,11 @@
 
 Lecture notes on electrodynamics and quantum mechanics read at NUST "MISiS" by T.R. Galizmyanov, as well as other materials.
 Video lecture can be found here:
+
 Quantum Mechanics (RU): https://www.youtube.com/playlist?list=PLvpHT7fBQ2TVIiE02PPXttbdRsLTj33wn
+
 Electrodynamics (RU): https://www.youtube.com/playlist?list=PLvpHT7fBQ2TU7nZE2oTq0fC3_wDKQaq7a
+
 Introduction to quantum mechanics (EN): https://www.youtube.com/playlist?list=PLvpHT7fBQ2TVO0RtV2NpYfDM1D33kzUNu
 
 List of files:
